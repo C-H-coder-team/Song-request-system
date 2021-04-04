@@ -14,6 +14,6 @@
 
 -It will be continuous updating.
 
--This app is developed by hxrlz, Uploaded by fanjun.
+-This app is developed by hxrlz, uploaded by fanjun.
 
 -There is only 1 version, Python 3.
