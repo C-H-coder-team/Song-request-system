@@ -13,3 +13,7 @@
 -If you are a foreigner, please translate by yourself.
 
 -It will be continuous updating.
+
+-This app is developed by hxrlz, Uploaded by fanjun.
+
+-There is only 1 version, Python 3.
